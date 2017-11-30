@@ -1,41 +1,47 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/jj-meteor",
     "promos": {
-        "1.10-latest": "1.0.2",
-        "1.10-recommended": "1.0.2",
-        "1.10.1-latest": "1.0.2",
-        "1.10.1-recommended": "1.0.2",
-        "1.10.2-latest": "1.0.2",
-        "1.10.2-recommended": "1.0.2",
-        "1.12-latest": "1.0.1",
-        "1.12-recommended": "1.0.1",
-        "1.12.1-latest": "1.0.1",
-        "1.12.1-recommended": "1.0.1",
-        "1.12.2-latest": "1.0.1",
-        "1.12.2-recommended": "1.0.1"
+        "1.10-latest": "1.0.3",
+        "1.10-recommended": "1.0.3",
+        "1.10.1-latest": "1.0.3",
+        "1.10.1-recommended": "1.0.3",
+        "1.10.2-latest": "1.0.3",
+        "1.10.2-recommended": "1.0.3",
+        "1.12-latest": "1.0.3",
+        "1.12-recommended": "1.0.3",
+        "1.12.1-latest": "1.0.3",
+        "1.12.1-recommended": "1.0.3",
+        "1.12.2-latest": "1.0.3",
+        "1.12.2-recommended": "1.0.3"
     },
     "1.10": {
         "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n",
-        "1.0.2": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2503652\n"
+        "1.0.2": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2503652\n",
+        "1.0.3": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2505119\n"
     },
     "1.10.1": {
         "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n",
-        "1.0.2": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2503652\n"
+        "1.0.2": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2503652\n",
+        "1.0.3": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2505119\n"
     },
     "1.10.2": {
         "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n",
-        "1.0.2": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2503652\n"
+        "1.0.2": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2503652\n",
+        "1.0.3": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2505119\n"
     },
     "1.12": {
         "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n",
-        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501970\n"
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501970\n",
+        "1.0.3": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2505120\n"
     },
     "1.12.1": {
         "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n",
-        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501970\n"
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501970\n",
+        "1.0.3": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2505120\n
     },
     "1.12.2": {
         "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n",
-        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501970\n"
+        "1.0.1": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501970\n",
+        "1.0.3": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2505120\n
     }
 }
