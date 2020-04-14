@@ -10,12 +10,12 @@
         "1.10.1-recommended": "1.0.7",
         "1.10.2-latest": "1.0.7",
         "1.10.2-recommended": "1.0.7",
-        "1.12-latest": "1.0.9",
-        "1.12-recommended": "1.0.9",
-        "1.12.1-latest": "1.0.9",
-        "1.12.1-recommended": "1.0.9",
-        "1.12.2-latest": "1.0.9",
-        "1.12.2-recommended": "1.0.9"
+        "1.12-latest": "1.0.10",
+        "1.12-recommended": "1.0.10",
+        "1.12.1-latest": "1.0.10",
+        "1.12.1-recommended": "1.0.10",
+        "1.12.2-latest": "1.0.10",
+        "1.12.2-recommended": "1.0.10"
     },
     "1.10": {
         "1.0.1": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2501962\n",
@@ -53,7 +53,8 @@
         "1.0.6": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2563950\n",
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2608831\n",
         "1.0.8": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2912235\n",
-        "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2913063\n"
+        "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2913063\n",
+        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2926274\n"
     },
     "1.12.1": {
         "1.0.0": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2501650\n",
@@ -64,7 +65,8 @@
         "1.0.6": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2563950\n",
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2608831\n",
         "1.0.8": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2912235\n",
-        "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2913063\n"
+        "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2913063\n",
+        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2926274\n"
     },
     "1.12.2": {
         "1.0.0": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2501650\n",
@@ -75,6 +77,7 @@
         "1.0.6": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2563950\n",
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2608831\n",
         "1.0.8": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2912235\n",
-        "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2913063\n"
+        "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2913063\n",
+        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-meteor/files/2926274\n"
     }
 }
